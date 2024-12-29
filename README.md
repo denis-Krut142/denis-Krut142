@@ -1,4 +1,4 @@
-<img src="https://github.com/Rat-muzzle/Rat-muzzle/blob/main/shigure-ui-dance.gif" alt="The Unlimited" width="520"/>
+<img src="https://github.com/denis-Krut142/denis-Krut142/blob/main/hornoxe.com_gifdump209_1.gif" alt="The Unlimited" width="520"/>
 
 <h1 align="center">Hi 👋, I'm Денчие</h1>
 <h3 align="center">Я ПАКЕСТАНЕЦ</h3>
