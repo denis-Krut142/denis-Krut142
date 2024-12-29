@@ -1,3 +1,5 @@
+<img src="https://github.com/Rat-muzzle/Rat-muzzle/blob/main/asset/gzm5k.gif" alt="The Unlimited" width="520"/>
+
 <h1 align="center">Hi 👋, I'm Денчие</h1>
 <h3 align="center">Я ПАКЕСТАНЕЦ</h3>
 
